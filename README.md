@@ -1,1 +1,1 @@
-Except module 6 & 7 all other are completed.
+Except module 5 & 6 all other are completed.
