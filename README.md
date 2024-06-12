@@ -71,6 +71,21 @@ The Lift Management System is a console-based Java application designed to simul
 
 The `LiftView` class is responsible for creating the lift's visual representation and handling user interactions. While the details are not provided in the snippet, it likely includes methods for initializing the view and handling user input events.
 
+## Requirements
+
+- **Java Development Kit (JDK)**: Ensure that JDK is installed on your system to compile and run the program.
+
 ## Conclusion
 
 This Lift Management System project demonstrates the effective use of OOP principles and DSA techniques in building a console-based Java application. By leveraging encapsulation, the singleton pattern, and efficient state management, the project ensures a robust and maintainable codebase.
+
+## Contributions
+
+Contributions are welcome! Feel free to fork the repository, submit pull requests, or open issues to discuss potential changes and improvements.
+
+## License
+
+This project is open-source and available under the MIT License.
+---
+
+
